@@ -4,7 +4,7 @@ $email = $_POST['email'];
 $message = $_POST['message'];
 $subject = $_POST['subject'];
 
-$to = 'hello@gmail.com';
+$to = 'info@shreeshanthisales.com';
 $message = 'FROM: '.$name.' Email: '.$email.'Message: '.$message;
 $headers = 'From: youremail@domain.com' . "\r\n";
  
